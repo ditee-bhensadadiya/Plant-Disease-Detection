@@ -1,0 +1,8 @@
+model_config_list {
+ config {
+    name: '1'
+    base_path: "C:\Users\ditib\Desktop\Plant Disease Detection\saved_model\models\model1\1\1.keras"
+    model_platform: 'tensorflow'
+    model_version_policy: {all: {}}
+        }
+}
